@@ -32,7 +32,7 @@ Para facilidad nosotros suministramos las librerias en la misma carpeta del proy
 
 ![ServerFTP - NetBeans IDE 8 2 6_7_2020 14_44_51](https://user-images.githubusercontent.com/37676810/86640182-4cf03900-bf97-11ea-8dbb-65ada9c621f8.png)
 
-Luego de esto procederemos a seleccionar los 2 archivos jar que se encuentran en la carpeta
+Luego de esto procederemos a seleccionar los 2 archivos jar que se encuentran en la carpeta y darle a la opcion abrir
 ![ServerFTP - NetBeans IDE 8 2 6_7_2020 14_37_39](https://user-images.githubusercontent.com/37676810/86640237-5d081880-bf97-11ea-8350-f00faf085903.png)
 
 Concluido todo esto, se tiene lo necesario para ejecutar el proyecto, para saber sobre su utilizacion dirigirse al manual de usuario
