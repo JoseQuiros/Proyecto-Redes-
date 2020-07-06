@@ -7,3 +7,5 @@ Servidor y cliente FTP, elaborado por Jordan Castillo Y José Quirós
  La utilizacion es simple, consta de enviar archivos los cuales se visualizan en una tabla de la misma manera se pueden solicitar archivos anteriormente almacenados en el servidor.
  Cada vez que se registra un usuario se crea automaticamente una carpeta en el disco del server, con el nombre del usuario.
  
+
+
